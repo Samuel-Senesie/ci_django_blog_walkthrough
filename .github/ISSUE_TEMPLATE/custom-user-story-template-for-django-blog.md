@@ -1,0 +1,16 @@
+---
+name: Custom user story template for Django blog
+about: Custom user story template for project
+title: 'User Story: <Title>'
+labels: ''
+assignees: ''
+
+---
+
+As a **role** I can **capability** so that **received benefit**
+
+- Acceptance criteria 1
+
+- Acceptance criteria 2
+
+- Acceptance criteria 3
